@@ -5,7 +5,7 @@ public class MoneyTransfer {
         int transferAmount = 500_000_000;
         int totalClientBalance = clientBalance + transferAmount;
 
-        System.out.println(totalClientBalance);
+        System.out.print(totalClientBalance);
 
 
     }
